@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![lang-stats]([https://github-readme-stats-clone-snq2001.vercel.app/api/top-langs/?username=SNQ-2001](https://git-hub-readme-stats-h7th-ouvppra7d-akira-19.vercel.app/api/top-langs/?username=akira-19))
+![lang-stats](https://git-hub-readme-stats-h7th-ouvppra7d-akira-19.vercel.app/api/top-langs/?username=akira-19)
 
 
 
