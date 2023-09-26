@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![lang-stats](https://git-hub-readme-stats-h7th-ouvppra7d-akira-19.vercel.app/api/top-langs/?username=akira-19)
-
-
 
 
 <!--
