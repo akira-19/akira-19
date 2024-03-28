@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=200&multiline=true&random=false&width=435&height=100&lines=Hi%2C+I'm+akira-19%E2%9C%8B;Love+exploring+new+technologies;Innovation+drives+my+work)](https://git.io/typing-svg)
 
 
 <!--
