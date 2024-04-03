@@ -1,19 +1,17 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akira-19/akira-19/main/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akira-19/akira-19/main/assets/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akira-19/akira-19/main/assets/snake.svg">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=200&multiline=true&random=false&width=435&height=100&lines=Hi%2C+I'm+akira-19%E2%9C%8B;Love+exploring+new+technologies;Innovation+drives+my+work)](https://git.io/typing-svg)
+<img class="img" width="50%" align="left" src="https://github.com/akira-19/akira-19/blob/main/assets/image.gif?raw=true" />
 
+<div align="right">
 
-<!--
-**akira-19/akira-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=akira-19&theme=onedark&show_icons=ture" />
 
-Here are some ideas to get you started:
+</br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira-19&layout=compact&show_icons=true&theme=onedark" />
+
+</div>
