@@ -3,15 +3,24 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akira-19/akira-19/main/assets/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akira-19/akira-19/main/assets/snake.svg">
 </picture>
+<hr>
+</br>
 
-<img class="img" width="50%" align="left" src="https://github.com/akira-19/akira-19/blob/main/assets/image.gif?raw=true" />
+<div>
+  <img class="img" width="45%" align="left" src="https://github.com/akira-19/akira-19/blob/main/assets/image.gif?raw=true" />
 
-<div align="right">
+  <div align="right">
 
-<img alt="github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=akira-19&theme=onedark&show_icons=ture" />
+  <img alt="github stats" width="45%" src="https://my-stats-62mt.vercel.app/api?username=akira-19&theme=onedark&show_icons=ture" />
 
-</br></br>
+  </br>
 
-<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira-19&layout=compact&show_icons=true&theme=onedark" />
-
+  <img alt="Top Langs" width="45%" src="https://my-stats-62mt.vercel.app/api/top-langs/?username=akira-19&layout=compact&show_icons=true&theme=onedark&langs_count=6&size_weight=1&count_weight=1" />
+  </div>
 </div>
+
+</br>
+</br>
+</br>
+</br>
+<hr>
