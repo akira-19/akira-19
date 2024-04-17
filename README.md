@@ -14,13 +14,12 @@
   <img alt="github stats" width="45%" src="https://my-stats-62mt.vercel.app/api?username=akira-19&theme=onedark&show_icons=ture" />
 
   </br>
+  </br>
+  </br>
 
   <img alt="Top Langs" width="45%" src="https://my-stats-62mt.vercel.app/api/top-langs/?username=akira-19&layout=compact&show_icons=true&theme=onedark&langs_count=6&size_weight=1&count_weight=1" />
   </div>
 </div>
 
-</br>
-</br>
-</br>
 </br>
 <hr>
