@@ -25,7 +25,24 @@
 <hr>
 </br>
 
-# skills
+# Articles
+
+### Japanese
+
+<!-- JapaneseArticles -->
+
+- [自作 Solidity を自作 EVM で動かしてみる](https://zenn.dev/akira19/articles/e305cfb0e0e9f0)
+- [Rails でキャッシュの削除を pub/sub で行う（ActiveSupport::Notifications）](https://qiita.com/_akira19/items/e016019ba0adda7f3a08)
+- [Redis の挙動を実験](https://qiita.com/_akira19/items/5fe6fa419f32df07aaa1)
+
+### English
+
+<!-- EnglishArticles -->
+
+- [Creating Regular Expression](https://dev.to/_akira19/creating-regular-expression-33ep)
+- [How to disconnect WebSocket from Chrome Developer tool](https://dev.to/_akira19/how-to-disconnect-websocket-from-chrome-developer-tool-4mfc)
+
+# Skills
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
