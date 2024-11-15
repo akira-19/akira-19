@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
-- [自作 Solidity を自作 EVM で動かしてみる](https://zenn.dev/akira19/articles/e305cfb0e0e9f0)
-- [Rails でキャッシュの削除を pub/sub で行う（ActiveSupport::Notifications）](https://qiita.com/_akira19/items/e016019ba0adda7f3a08)
-- [Redis の挙動を実験](https://qiita.com/_akira19/items/5fe6fa419f32df07aaa1)
+- [自作Solidityを自作EVMで動かしてみる](https://zenn.dev/akira19/articles/e305cfb0e0e9f0)
+- [Railsでキャッシュの削除をpub/subで行う（ActiveSupport::Notifications）](https://qiita.com/_akira19/items/e016019ba0adda7f3a08)
+- [Redisの挙動を実験](https://qiita.com/_akira19/items/5fe6fa419f32df07aaa1)
 
 ### English
 
