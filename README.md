@@ -39,6 +39,7 @@
 
 <!-- EnglishArticles -->
 
+- [Why is a Hash Function Irreversible?](https://dev.to/_akira19/why-is-a-hash-function-irreversible-453c)
 - [Creating Regular Expression](https://dev.to/_akira19/creating-regular-expression-33ep)
 - [How to disconnect WebSocket from Chrome Developer tool](https://dev.to/_akira19/how-to-disconnect-websocket-from-chrome-developer-tool-4mfc)
 
