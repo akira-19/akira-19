@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
+- [[Solidity]構造体を削除しても内部のmappingは消えない](https://qiita.com/_akira19/items/47f0bbbc6d631d03c5a9)
+- [[クラウドセキュリティ]ヒヤリハットとその対策10選](https://qiita.com/_akira19/items/a10e4e2f24836d01af16)
 - [自作Solidityを自作EVMで動かしてみる](https://zenn.dev/akira19/articles/e305cfb0e0e9f0)
-- [Railsでキャッシュの削除をpub/subで行う（ActiveSupport::Notifications）](https://qiita.com/_akira19/items/e016019ba0adda7f3a08)
-- [Redisの挙動を実験](https://qiita.com/_akira19/items/5fe6fa419f32df07aaa1)
 
 ### English
 
