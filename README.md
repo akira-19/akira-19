@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
-- [[Solidity]構造体を削除しても内部のmappingは消えない](https://qiita.com/_akira19/items/47f0bbbc6d631d03c5a9)
-- [[クラウドセキュリティ]ヒヤリハットとその対策10選](https://qiita.com/_akira19/items/a10e4e2f24836d01af16)
 - [自作Solidityを自作EVMで動かしてみる](https://zenn.dev/akira19/articles/e305cfb0e0e9f0)
+- [[Rust]Github GraphQL APIで学んだライフタイム](https://zenn.dev/akira19/articles/4ea014e0837cb5)
+- [[Rust]BLS署名を実装してみる](https://zenn.dev/akira19/articles/e2195157f63980)
 
 ### English
 
