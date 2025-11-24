@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
+- [[devcontainer]Typstを使ってスライド作成](https://zenn.dev/akira19/articles/5fba2e3b153eda)
 - [ Diffie-Hellman（DH）仮定一覧（SDH, XDH, BDH）](https://qiita.com/_akira19/items/a5a727be596c02b895ae)
 - [GKRプロトコルの概説](https://qiita.com/_akira19/items/49535097bc4332c9cda8)
-- [[Solidity]構造体を削除しても内部のmappingは消えない](https://qiita.com/_akira19/items/47f0bbbc6d631d03c5a9)
 
 ### English
 
