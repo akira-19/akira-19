@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
+- [XRP Ledger（XRPL）でNFTを作成](https://qiita.com/_akira19/items/ce96032508ab13517037)
+- [XRPLとEVMの比較](https://qiita.com/_akira19/items/af004e7fbbc3f5109337)
 - [非EVM入門（XRPL, Solana, Sui）](https://qiita.com/_akira19/items/2e6159bac186042cbea9)
-- [[devcontainer]Typstを使ってスライド作成](https://zenn.dev/akira19/articles/5fba2e3b153eda)
-- [ Diffie-Hellman（DH）仮定一覧（SDH, XDH, BDH）](https://qiita.com/_akira19/items/a5a727be596c02b895ae)
 
 ### English
 
