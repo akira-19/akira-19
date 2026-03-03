@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
-- [XRP Ledger（XRPL）でNFTを作成](https://qiita.com/_akira19/items/ce96032508ab13517037)
-- [XRPLとEVMの比較](https://qiita.com/_akira19/items/af004e7fbbc3f5109337)
-- [非EVM入門（XRPL, Solana, Sui）](https://qiita.com/_akira19/items/2e6159bac186042cbea9)
+- [基本的なMPCプロトコル4（BMRプロトコル）](https://qiita.com/_akira19/items/776ab7ea6cf1afc8ec29)
+- [基本的なMPCプロトコル3（BGWプロトコル）](https://qiita.com/_akira19/items/d8597ee9b82781c75efc)
+- [基本的なMPCプロトコル1（Oblivious Transfer, Garbled Circuits）](https://qiita.com/_akira19/items/67034c4a37cb75c053b8)
 
 ### English
 
