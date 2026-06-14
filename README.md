@@ -31,9 +31,9 @@
 
 <!-- JapaneseArticles -->
 
-- [基本的なMPCプロトコル4（BMRプロトコル）](https://qiita.com/_akira19/items/776ab7ea6cf1afc8ec29)
-- [基本的なMPCプロトコル3（BGWプロトコル）](https://qiita.com/_akira19/items/d8597ee9b82781c75efc)
-- [基本的なMPCプロトコル1（Oblivious Transfer, Garbled Circuits）](https://qiita.com/_akira19/items/67034c4a37cb75c053b8)
+- [[devcontainer]Typstを使ってスライド作成](https://zenn.dev/akira19/articles/5fba2e3b153eda)
+- [自作Solidityを自作EVMで動かしてみる](https://zenn.dev/akira19/articles/e305cfb0e0e9f0)
+- [[Rust]Github GraphQL APIで学んだライフタイム](https://zenn.dev/akira19/articles/4ea014e0837cb5)
 
 ### English
 
